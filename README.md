@@ -1,4 +1,4 @@
-# Machine Learning Keegle Competition
+# Machine Learning Kaggle Competition
 
 ## Trabalhos da Disciplina de Introdução ao Aprendizado de Máquina
 
